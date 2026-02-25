@@ -1,0 +1,13 @@
+Package: jatimuseR
+Title: Akses Dataset Jawa Timur dari Google Spreadsheet
+Version: 0.0.0.9000
+Authors@R: 
+    person("Joko", "Nursiyono", , "email@anda.com", role = c("aut", "cre"))
+Description: Package untuk mengakses dataset publik Jawa Timur 
+    yang disimpan pada Google Spreadsheet secara read-only.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    googlesheets4
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
